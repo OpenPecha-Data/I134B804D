@@ -3,37 +3,32 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   bdc9635ea2794121aebe188ee5b5327a:
-    page_index: 1a
-    page_info: null
-    reference: I00KG028820001
+    imgnum: 1
+    reference: I00KG028820001.tif
     span:
       start: 0
       end: 1003
   dc126ca16f4f48efa94f2c48db85fa12:
-    page_index: 2a
-    page_info: null
-    reference: I00KG028820003
+    imgnum: 3
+    reference: I00KG028820003.tif
     span:
       start: 1008
       end: 1493
   b9f853ff1f8b4e39b642322ed2c24b32:
-    page_index: 2b
-    page_info: null
-    reference: I00KG028820004
+    imgnum: 4
+    reference: I00KG028820004.tif
     span:
       start: 1498
       end: 2572
   671ad73d0cbc40b381243cce501e588e:
-    page_index: 3a
-    page_info: null
-    reference: I00KG028820005
+    imgnum: 5
+    reference: I00KG028820005.tif
     span:
       start: 2577
       end: 3463
   76d1dcd6874147ac8a7bf5d24e4d1e60:
-    page_index: 3b
-    page_info: null
-    reference: I00KG028820006
+    imgnum: 6
+    reference: I00KG028820006.tif
     span:
       start: 3468
       end: 3790
